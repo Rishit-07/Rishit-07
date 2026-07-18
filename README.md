@@ -60,30 +60,21 @@
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3>Animated Profile</h3>
+    <td width="50%" valign="top">
+      <h3>Qurate</h3>
       <p>
-        A minimal GitHub profile system with generated SVG assets and scheduled updates.
+        A featured project focused on building a polished, practical product experience.
       </p>
-      <p><strong>Python &bull; SVG &bull; GitHub Actions</strong></p>
-      <p><a href="https://github.com/Rishit-07/Rishit-07">View on GitHub</a></p>
+      <p><strong>Full Stack &bull; Web &bull; Product</strong></p>
+      <p><a href="https://github.com/Rishit-07/Qurate">View on GitHub</a></p>
     </td>
-    <td width="33%" valign="top">
-      <h3>Portrait Renderer</h3>
+    <td width="50%" valign="top">
+      <h3>Socials</h3>
       <p>
-        Image preparation workflow for background removal, grayscale processing,
-        and SVG-based portrait generation.
+        A featured project designed around modern social and profile experiences.
       </p>
-      <p><strong>Python &bull; OpenCV &bull; rembg</strong></p>
-      <p><a href="https://github.com/Rishit-07/Rishit-07">View on GitHub</a></p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Contribution Heatmap</h3>
-      <p>
-        A self-rendered contribution graph powered by public GitHub contribution data.
-      </p>
-      <p><strong>Requests &bull; BeautifulSoup &bull; SVG</strong></p>
-      <p><a href="https://github.com/Rishit-07/Rishit-07">View on GitHub</a></p>
+      <p><strong>Full Stack &bull; Web &bull; Social</strong></p>
+      <p><a href="https://github.com/Rishit-07/Socials">View on GitHub</a></p>
     </td>
   </tr>
 </table>
