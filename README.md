@@ -1,10 +1,10 @@
 <div align="center">
   <br />
-  <h1>Rishi</h1>
-  <h3>Software Engineer &bull; Full Stack Developer</h3>
+  <h1>Sai Rishit Sunku</h1>
+  <h3>Computer Science Student &bull; Full Stack Developer</h3>
   <p>
-    I build polished web experiences, practical automation, and developer tools
-    with a focus on clarity, performance, and thoughtful details.
+    Focused on full stack development, artificial intelligence,
+    and scalable software systems.
   </p>
   <p>
     <a href="mailto:sairishitsunku@gmail.com">Contact</a>
@@ -22,33 +22,11 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>Current Focus</h3>
+    <td width="100%" valign="top">
+      <h3>Profile</h3>
       <p>
-        Designing refined GitHub profile systems with Python automation,
-        animated SVGs, and clean visual storytelling.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Tech Stack</h3>
-      <p>
-        React, Node.js, Express, MongoDB, Python, OpenCV, GitHub Actions.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Learning</h3>
-      <p>
-        Better product design, scalable backend patterns, image processing,
-        and polished frontend motion.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Open Source</h3>
-      <p>
-        Small tools, profile automation, creative developer experiences,
-        and projects that make everyday workflows smoother.
+        I'm Sai Rishit Sunku, a Computer Science student focused on Full Stack
+        Development, Artificial Intelligence, and scalable software systems.
       </p>
     </td>
   </tr>
@@ -86,32 +64,33 @@
 <table>
   <tr>
     <td width="25%" valign="top">
+      <h3>Languages</h3>
+      <p><strong>Python</strong></p>
+      <p><strong>Java</strong></p>
+      <p><strong>JavaScript</strong></p>
+    </td>
+    <td width="25%" valign="top">
       <h3>Frontend</h3>
-      <p>React</p>
-      <p>JavaScript</p>
-      <p>HTML</p>
-      <p>CSS</p>
+      <p><strong>HTML5</strong></p>
+      <p><strong>CSS3</strong></p>
+      <p><strong>React.js</strong></p>
     </td>
     <td width="25%" valign="top">
       <h3>Backend</h3>
-      <p>Node.js</p>
-      <p>Express</p>
-      <p>MongoDB</p>
-      <p>REST APIs</p>
+      <p><strong>Node.js</strong></p>
+      <p><strong>Express.js</strong></p>
+      <p><strong>MongoDB</strong></p>
+      <p><strong>REST APIs</strong></p>
     </td>
     <td width="25%" valign="top">
-      <h3>Languages</h3>
-      <p>Python</p>
-      <p>Java</p>
-      <p>JavaScript</p>
-      <p>SQL</p>
-    </td>
-    <td width="25%" valign="top">
-      <h3>Tools</h3>
-      <p>Git</p>
-      <p>GitHub Actions</p>
-      <p>VS Code</p>
-      <p>Postman</p>
+      <h3>Tools & Concepts</h3>
+      <p><strong>Docker</strong></p>
+      <p><strong>GitHub</strong></p>
+      <p><strong>Postman</strong></p>
+      <p><strong>Command Line Basics</strong></p>
+      <p><strong>Data Structures & Algorithms</strong></p>
+      <p><strong>Authentication & Authorization</strong></p>
+      <p><strong>Problem Solving</strong></p>
     </td>
   </tr>
 </table>
