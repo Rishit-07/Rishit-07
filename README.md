@@ -1,6 +1,5 @@
 <div align="center">
   <br />
-  <img src="./assets/photo.jpg" width="164" alt="Rishi profile photo" />
   <h1>Rishi</h1>
   <h3>Software Engineer &bull; Full Stack Developer</h3>
   <p>
