@@ -1,0 +1,7 @@
+# Python 3.13 project dependencies
+opencv-python
+numpy
+pillow
+rembg[cpu]
+requests
+beautifulsoup4
