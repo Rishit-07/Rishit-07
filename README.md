@@ -81,18 +81,6 @@
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-  <p>
-    <strong>Contribution activity, updated daily.</strong><br />
-    <sub>Rendered locally from this repository's existing SVG generator.</sub>
-  </p>
-  <img src="./contrib-heatmap.svg" alt="Animated GitHub contribution heatmap" />
-</div>
-
----
-
 ## Skills
 
 <table>
