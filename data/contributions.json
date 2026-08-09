@@ -2,12 +2,6 @@
   "days": [
     {
       "count": 0,
-      "date": "2025-08-03",
-      "description": null,
-      "level": 0
-    },
-    {
-      "count": 0,
       "date": "2025-08-10",
       "description": null,
       "level": 0
@@ -320,9 +314,9 @@
     },
     {
       "count": 0,
-      "date": "2025-08-04",
+      "date": "2026-08-09",
       "description": null,
-      "level": 2
+      "level": 0
     },
     {
       "count": 0,
@@ -638,12 +632,6 @@
     },
     {
       "count": 0,
-      "date": "2025-08-05",
-      "description": null,
-      "level": 2
-    },
-    {
-      "count": 0,
       "date": "2025-08-12",
       "description": null,
       "level": 0
@@ -956,12 +944,6 @@
     },
     {
       "count": 0,
-      "date": "2025-08-06",
-      "description": null,
-      "level": 0
-    },
-    {
-      "count": 0,
       "date": "2025-08-13",
       "description": null,
       "level": 0
@@ -1269,12 +1251,6 @@
     {
       "count": 0,
       "date": "2026-08-05",
-      "description": null,
-      "level": 0
-    },
-    {
-      "count": 0,
-      "date": "2025-08-07",
       "description": null,
       "level": 0
     },
@@ -1592,12 +1568,6 @@
     },
     {
       "count": 0,
-      "date": "2025-08-08",
-      "description": null,
-      "level": 0
-    },
-    {
-      "count": 0,
       "date": "2025-08-15",
       "description": null,
       "level": 0
@@ -1910,12 +1880,6 @@
     },
     {
       "count": 0,
-      "date": "2025-08-09",
-      "description": null,
-      "level": 0
-    },
-    {
-      "count": 0,
       "date": "2025-08-16",
       "description": null,
       "level": 0
@@ -2224,11 +2188,11 @@
       "count": 0,
       "date": "2026-08-08",
       "description": null,
-      "level": 0
+      "level": 2
     }
   ],
-  "fetched_at": "2026-08-08T03:45:43.797183+00:00",
+  "fetched_at": "2026-08-09T03:54:37.590245+00:00",
   "source_url": "https://github.com/users/Rishit-07/contributions",
-  "total_contributions": 234,
+  "total_contributions": 241,
   "username": "Rishit-07"
 }
