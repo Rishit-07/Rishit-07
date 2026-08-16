@@ -2,12 +2,6 @@
   "days": [
     {
       "count": 0,
-      "date": "2025-08-10",
-      "description": null,
-      "level": 0
-    },
-    {
-      "count": 0,
       "date": "2025-08-17",
       "description": null,
       "level": 0
@@ -320,7 +314,7 @@
     },
     {
       "count": 0,
-      "date": "2025-08-11",
+      "date": "2026-08-16",
       "description": null,
       "level": 0
     },
@@ -638,12 +632,6 @@
     },
     {
       "count": 0,
-      "date": "2025-08-12",
-      "description": null,
-      "level": 0
-    },
-    {
-      "count": 0,
       "date": "2025-08-19",
       "description": null,
       "level": 0
@@ -953,12 +941,6 @@
       "date": "2026-08-11",
       "description": null,
       "level": 3
-    },
-    {
-      "count": 0,
-      "date": "2025-08-13",
-      "description": null,
-      "level": 0
     },
     {
       "count": 0,
@@ -1274,12 +1256,6 @@
     },
     {
       "count": 0,
-      "date": "2025-08-14",
-      "description": null,
-      "level": 0
-    },
-    {
-      "count": 0,
       "date": "2025-08-21",
       "description": null,
       "level": 1
@@ -1592,12 +1568,6 @@
     },
     {
       "count": 0,
-      "date": "2025-08-15",
-      "description": null,
-      "level": 0
-    },
-    {
-      "count": 0,
       "date": "2025-08-22",
       "description": null,
       "level": 0
@@ -1905,12 +1875,6 @@
     {
       "count": 0,
       "date": "2026-08-14",
-      "description": null,
-      "level": 0
-    },
-    {
-      "count": 0,
-      "date": "2025-08-16",
       "description": null,
       "level": 0
     },
@@ -2227,7 +2191,7 @@
       "level": 0
     }
   ],
-  "fetched_at": "2026-08-15T03:07:17.758097+00:00",
+  "fetched_at": "2026-08-16T03:15:02.467819+00:00",
   "source_url": "https://github.com/users/Rishit-07/contributions",
   "total_contributions": 275,
   "username": "Rishit-07"
