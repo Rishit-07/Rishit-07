@@ -2,12 +2,6 @@
   "days": [
     {
       "count": 0,
-      "date": "2025-08-17",
-      "description": null,
-      "level": 0
-    },
-    {
-      "count": 0,
       "date": "2025-08-24",
       "description": null,
       "level": 0
@@ -320,9 +314,9 @@
     },
     {
       "count": 0,
-      "date": "2025-08-18",
+      "date": "2026-08-23",
       "description": null,
-      "level": 0
+      "level": 1
     },
     {
       "count": 0,
@@ -638,12 +632,6 @@
     },
     {
       "count": 0,
-      "date": "2025-08-19",
-      "description": null,
-      "level": 0
-    },
-    {
-      "count": 0,
       "date": "2025-08-26",
       "description": null,
       "level": 0
@@ -940,25 +928,19 @@
       "count": 0,
       "date": "2026-08-04",
       "description": null,
-      "level": 4
+      "level": 3
     },
     {
       "count": 0,
       "date": "2026-08-11",
       "description": null,
-      "level": 3
+      "level": 2
     },
     {
       "count": 0,
       "date": "2026-08-18",
       "description": null,
       "level": 1
-    },
-    {
-      "count": 0,
-      "date": "2025-08-20",
-      "description": null,
-      "level": 0
     },
     {
       "count": 0,
@@ -1274,12 +1256,6 @@
     },
     {
       "count": 0,
-      "date": "2025-08-21",
-      "description": null,
-      "level": 1
-    },
-    {
-      "count": 0,
       "date": "2025-08-28",
       "description": null,
       "level": 0
@@ -1510,7 +1486,7 @@
       "count": 0,
       "date": "2026-05-21",
       "description": null,
-      "level": 4
+      "level": 3
     },
     {
       "count": 0,
@@ -1582,19 +1558,13 @@
       "count": 0,
       "date": "2026-08-13",
       "description": null,
-      "level": 2
+      "level": 1
     },
     {
       "count": 0,
       "date": "2026-08-20",
       "description": null,
-      "level": 2
-    },
-    {
-      "count": 0,
-      "date": "2025-08-22",
-      "description": null,
-      "level": 0
+      "level": 1
     },
     {
       "count": 0,
@@ -1804,7 +1774,7 @@
       "count": 0,
       "date": "2026-04-24",
       "description": null,
-      "level": 3
+      "level": 2
     },
     {
       "count": 0,
@@ -1907,12 +1877,6 @@
       "date": "2026-08-21",
       "description": null,
       "level": 1
-    },
-    {
-      "count": 0,
-      "date": "2025-08-23",
-      "description": null,
-      "level": 0
     },
     {
       "count": 0,
@@ -2224,11 +2188,11 @@
       "count": 0,
       "date": "2026-08-22",
       "description": null,
-      "level": 0
+      "level": 4
     }
   ],
-  "fetched_at": "2026-08-22T03:09:44.344822+00:00",
+  "fetched_at": "2026-08-23T03:17:22.261017+00:00",
   "source_url": "https://github.com/users/Rishit-07/contributions",
-  "total_contributions": 297,
+  "total_contributions": 324,
   "username": "Rishit-07"
 }
